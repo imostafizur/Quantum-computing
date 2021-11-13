@@ -1,0 +1,3 @@
+>Install Anaconda
+>Open Anaconda Command promt
+>pip install Qiskit
